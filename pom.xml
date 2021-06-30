@@ -34,7 +34,7 @@
 <uri>https://anypoint.mulesoft.com</uri>
 <muleVersion>7.9.0</muleVersion>
 <!--Deploy User Parameter-->
-<username>navitha_work</username>
+<username>navitha_work1</username>
 <password>Absyz@123</password>
 <environment>sandbox</environment>
 <applicationName>sales_csv</applicationName>
