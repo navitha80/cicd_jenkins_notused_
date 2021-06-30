@@ -37,8 +37,8 @@
 <username>navitha_work1</username>
 <password>Absyz@123</password>
 <environment>sandbox</environment>
-<applicationName>sales_csv</applicationName>
-<businessGroup>VBA</businessGroup>
+<applicationName>cicd_jenkins</applicationName>
+<businessGroup>ABSYZ</businessGroup>
 <workerType>0.1 vCores</workerType>
 <workers>1</workers>
 <objectStoreV2>true</objectStoreV2>
